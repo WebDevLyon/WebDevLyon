@@ -1,7 +1,5 @@
 ## 👋 Qui suis-je
 
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/WebDevLyon)
-
 Hello à vous, 
 
 👦Je suis **Nicolas** alias WebDevLyon<br>
@@ -29,24 +27,12 @@ J'aime aussi écrire sur la tech (et la photographie), j'en profite pour partage
 
 Ca se passe sur : 📝 **[Coming soon](#)**. 
  
-## 💻 Quelques stats
+## 📊 Quelques stats
+
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/WebDevLyon)
 
 ![Web Dev Lyon's Github stats](https://github-readme-stats.vercel.app/api?username=WebDevLyon&show_icons=true)
 
-<!--
-**lizheming/lizheming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [FB]: https://www.facebook.com/Austin.Lee.9173/
 [Insta]: https://m.weibo.cn/u/1694884707
 
