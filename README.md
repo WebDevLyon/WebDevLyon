@@ -1,8 +1,13 @@
-## 👋 Introduction
+## 👋 Qui suis-je
 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/WebDevLyon)
 
-Hello à vous, Je suis **Nicolas Lachise** alias WebDevLyon. Je suis un développeur Full-Stack basé en France sur Lyon.
+Hello à vous, 
+
+👦Je suis **Nicolas** alias WebDevLyon<br>
+💻Je suis un développeur Full-Stack<br>
+🌇Basé en France sur Lyon<br>
+📷Je suis aussi photographe Freelance<br>
 
 J'ai réalisé quelques travaux en **HTML5**, **CSS3**, **JavaScript**, et **Node.js**, comme de l'intégration, la création de A à Z de sites web ou encore la création d'API Rest.
 
@@ -18,22 +23,15 @@ Ou simplement par
 
 ✉️ [Email](mailto:webdeveloppeurlyon@gmail.com)
 
-## 💡 Projects with My Work
+## 📚 Je suis aussi blogueur
 
-- [**75.team**](https://75.team): The Official Blog for 75team, the largest front end team in @Qihoo360.
-- [**75CDN**](https://cdn.baomitu.com): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
-- [**声享**](https://ppt.baomitu.com): Create and share your presentations online.
+J'aime aussi écrire sur la tech (et la photographie), j'en profite pour partager ma veille, mes projets open-sources, astuces...
 
-## 📚 Tech Articles and Talks 
-
-You can find a list of my talks' presentation on 📖 **[ppt.baomitu.com](https://ppt.baomitu.com/u/lizheming)**. 
-
-And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.org). 
+Ca se passe sur : 📝 **[Coming soon](#)**. 
  
-## 💻 Open Source Work Stats
+## 💻 Quelques stats
 
-
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
+![Web Dev Lyon's Github stats](https://github-readme-stats.vercel.app/api?username=WebDevLyon&show_icons=true)
 
 <!--
 **lizheming/lizheming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
