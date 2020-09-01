@@ -33,6 +33,6 @@ Ca se passe sur : 📝 **[Coming soon](#)**.
 
 ![Web Dev Lyon's Github stats](https://github-readme-stats.vercel.app/api?username=WebDevLyon&show_icons=true)
 
-[FB]: https://www.facebook.com/Austin.Lee.9173/
-[Insta]: https://m.weibo.cn/u/1694884707
+[FB]: https://www.facebook.com/WebDevLyon
+[Insta]: https://www.instagram.com/nicolaslachise/
 
