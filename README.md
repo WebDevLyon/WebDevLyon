@@ -25,7 +25,7 @@ Ou simplement par
 
 J'aime aussi écrire sur la tech (et la photographie), j'en profite pour partager ma veille, mes projets open-sources, astuces...
 
-Ca se passe sur : 📝 **[Le Blog | WDL][Blog](#)**. 
+Ca se passe sur : 📝 **[Le Blog | WDL][Blog]**. 
  
 ## 📊 Quelques stats
 
@@ -35,4 +35,4 @@ Ca se passe sur : 📝 **[Le Blog | WDL][Blog](#)**.
 
 [FB]: https://www.facebook.com/WebDevLyon
 [Insta]: https://www.instagram.com/nicolaslachise/
-[Blog]: https://www.facebook.com/WebDevLyon
+[Blog]: http://leblog.webdevlyon.fr/
