@@ -7,7 +7,9 @@ Hello à vous,
 🌇Basé en France sur Lyon<br>
 📷Je suis aussi photographe Freelance<br>
 
-J'ai réalisé quelques travaux en **HTML5**, **CSS3**, **JavaScript**, et **Node.js**, comme de l'intégration, la création de A à Z de sites web ou encore la création d'API Rest.
+Je travaille essentiellement en **HTML5**, **CSS3**, **JavaScript**, et **Node.js**. je fais aussi bien de l'intégration, que de la création de A à Z de sites web ou encore la création d'API Rest.
+
+Depuis fin 2021, j'ai pris gout pour travailler aussi avec du Low Code, je réalise avec Airtable des applications 100% personnalisée pour votre activité grace à la vitesse de création et d'automatisation des données et des interfaces créés avec Nuxt.js
 
 Si vous avez des questions n'hésitez pas à me contacter.
 
@@ -19,7 +21,7 @@ Rien de plus simple, soit par mes réseaux sociaux :
 
 Ou simplement par 
 
-✉️ [Email](mailto:webdeveloppeurlyon@gmail.com)
+✉️ [Email](mailto:contact@webdevlyon.fr)
 
 ## 📚 Je suis aussi blogueur
 
