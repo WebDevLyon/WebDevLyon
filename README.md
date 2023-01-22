@@ -2,14 +2,16 @@
 
 Hello à vous, 
 
-👦Je suis **Nicolas** alias WebDevLyon<br>
-💻Je suis un développeur Full-Stack<br>
-🌇Basé en France sur Lyon<br>
-📷Je suis aussi photographe Freelance<br>
+👦 Je suis **Nicolas** alias WebDevLyon<br>
+💻 Je suis un développeur Full-Stack<br>
+🌇 Basé en France sur Lyon<br>
+📷 Je suis aussi photographe Freelance<br>
 
-Je travaille essentiellement en **HTML5**, **CSS3**, **JavaScript**, et **Node.js**. je fais aussi bien de l'intégration, que de la création de A à Z de sites web ou encore la création d'API Rest.
+Je travaille essentiellement en **HTML5**, **CSS3**, **JavaScript**, et **Node.js**. je fais aussi bien de l'intégration, que de la création de A à Z de sites web et applications Web ou encore la création d'API Rest.
 
-Depuis fin 2021, j'ai pris gout pour travailler aussi avec du Low Code, je réalise avec Airtable des applications 100% personnalisée pour votre activité grace à la vitesse de création et d'automatisation des données et des interfaces créés avec Nuxt.js
+Je travaille sur les frameworks vue.js (et nuxt.js).
+
+Depuis fin 2021, j'ai pris gout pour travailler aussi avec du Low Code, je réalise avec Airtable des applications 100% personnalisée pour votre activité grace à la vitesse de création et d'automatisation des données couplé à des interfaces créés avec Nuxt.js
 
 Si vous avez des questions n'hésitez pas à me contacter.
 
