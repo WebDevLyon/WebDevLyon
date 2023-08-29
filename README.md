@@ -11,7 +11,7 @@ Je travaille essentiellement en **HTML5**, **CSS3**, **JavaScript**, et **Node.j
 
 Je travaille sur les frameworks vue.js (et nuxt.js).
 
-Depuis fin 2021, j'ai pris gout pour travailler aussi avec du Low Code, je réalise avec Airtable des applications 100% personnalisée pour votre activité grace à la vitesse de création et d'automatisation des données couplé à des interfaces créés avec Nuxt.js
+Depuis fin 2021, j'ai pris gout pour travailler aussi avec du Low Code, je réalise avec Airtable des applications 100% personnalisée pour votre activité grace à la vitesse de création et d'automatisation des données couplé à des interfaces créés avec Vue.js (ou Nuxt.js)
 
 Si vous avez des questions n'hésitez pas à me contacter.
 
