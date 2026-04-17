@@ -1,39 +1,55 @@
-## 👋 Qui suis-je
+## 👋 Salut, moi c’est Nicolas
 
-Hello à vous, 
+Développeur Full-Stack JavaScript & chef de projet / Consultant
 
-👦 Je suis **Nicolas** alias WebDevLyon<br>
-💻 Je suis un développeur Full-Stack<br>
-🌇 Basé en France sur Lyon<br>
-📷 Je suis aussi photographe Freelance<br>
+📍 Basé en France (Lyon)<br>
+💼 Freelance + salarié (consultant & chef de projet)<br>
 
-Je travaille essentiellement en **HTML5**, **CSS3**, **JavaScript**, et **Node.js**. je fais aussi bien de l'intégration, que de la création de A à Z de sites web et applications Web ou encore la création d'API Rest.
+### 🧠 Ce que je fais
 
-Je travaille sur les frameworks **VueJS et Nuxt**.
+Je conçois et développe des applications web sur mesure pour des entreprises et des indépendants :
 
-Depuis fin 2021, j'ai pris gout pour travailler aussi avec du Low Code, je réalise avec Airtable des applications 100% personnalisée pour votre activité grace à la vitesse de création et d'automatisation des données couplé à des interfaces créés avec VueJS.
+Applications SaaS (Nuxt / Vue / Node.js)<br>
+Outils métier et automatisations (Airtable / low-code)<br>
+APIs REST et backends sur mesure<br>
+Systèmes RH / SIRH<br>
+GED (DocuWare)<br>
 
-J'ai un rôle de chef de projet - consultant - développeur SIRH chez un éditeur du top 10 francais ce qui me permet d'avoir un profil complet dans la gestion et la réalisation de projets.
+Je combine développement classique + low-code pour aller plus vite sans sacrifier la qualité.
 
-Si vous avez des questions n'hésitez pas à me contacter.
+### ⚙️ Stack technique
 
-## 📫 Me Contacter
+Frontend : Vue js, Nuxt js, HTML, CSS, JavaScript<br>
+Backend : Node.js, API REST<br>
+Low-code : Airtable, Make, Carbonne, Infinite Blue,...<br>
+DevOps : Docker, Nginx<br>
+CMS / web : WordPress<br>
 
-Rien de plus simple, soit par mes réseaux sociaux :
+### 🚀 Ce que je construis actuellement
 
-[Facebook][FB] | [Instagram][Insta] 
+Un SaaS de gestion de projet modulable<br>
+Des outils d’automatisation métier basés sur Airtable<br>
+Des architectures multi-projets sur VPS avec Docker<br>
 
-Ou simplement par 
+### 💡 Ce que je peux vous apporter
 
-✉️ [Email](mailto:contact@webdevlyon.fr)
+✔ Création d’outils métiers rapides et efficaces<br>
+✔ Automatisation de processus internes<br>
+✔ Transformation d’une idée en MVP fonctionnel<br>
+✔ Accompagnement technique et produit<br>
 
-## 📚 Je suis aussi blogueur
+### 📷 En dehors du code
 
-J'aime aussi écrire sur la tech (et la photographie), j'en profite pour partager ma veille, mes projets open-sources, astuces...
+Je suis aussi passionné de photographie (ancien pro) — j’aime le travail de l’image, de la composition et du terrain.
 
-Ca se passe sur : 📝 **[Le Blog | WDL][Blog]**. 
- 
-## 📊 Quelques stats
+### 📫 Contact
+
+📧 contact@webdevlyon.fr<br>
+📘 Facebook : [WebDevLyon][FB]<br>
+📸 Instagram : [@nicolaslachise][Insta]<br>
+📝 Blog : [leblog.webdevlyon.fr][Blog]<br>
+
+### 📊 Stats GitHub
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/WebDevLyon)
 
