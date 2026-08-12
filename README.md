@@ -53,7 +53,7 @@ Je suis aussi passionné de photographie (ancien pro) — j’aime le travail de
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/WebDevLyon)
 
-![Web Dev Lyon's Github stats](https://github-readme-stats.vercel.app/api?username=WebDevLyon&show_icons=true)
+[![Stats de WebDevLyon](https://github-stats-extended.vercel.app/api?username=WebDevLyon)](https://github.com/stats-organization/github-stats-extended)
 
 [FB]: https://www.facebook.com/WebDevLyon
 [Insta]: https://www.instagram.com/nicolaslachise/
